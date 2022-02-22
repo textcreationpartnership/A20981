@@ -1,0 +1,568 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prodromus. Or The literall destruction of Ierusalem as it is described in the 79. Psalme: in which are handled these places: Inuocation vnder the crosse. Gods deserting of his people. Christian buriall. Contumelie. God the author of the euill of punishments. Reuenge. Church not euer visible to vs. Confessions of sinnes. True religion not euer prosperous.</title>
+            <author>Dunster, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20981</idno>
+            <idno type="STC">STC 7355</idno>
+            <idno type="STC">ESTC S116691</idno>
+            <idno type="EEBO-CITATION">99851907</idno>
+            <idno type="PROQUEST">99851907</idno>
+            <idno type="VID">17201</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17201)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 989:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prodromus. Or The literall destruction of Ierusalem as it is described in the 79. Psalme: in which are handled these places: Inuocation vnder the crosse. Gods deserting of his people. Christian buriall. Contumelie. God the author of the euill of punishments. Reuenge. Church not euer visible to vs. Confessions of sinnes. True religion not euer prosperous.</title>
+                  <author>Dunster, John.</author>
+               </titleStmt>
+               <extent>[8], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. S[nodham] for Ralph Mabb, and are to be sould at his shop, at the signe of the Angell in Paules Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: I. Dunster.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Running title reads: A literall exposition of the 79. Psalme.</note>
+                  <note>Reproduction of the original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:17201:1"/>
+            <pb facs="tcp:17201:1"/>
+            <head>TO THE RIGHT VVORSHIPFVLL, M<hi rend="sup">r</hi>. <hi>Edward Stafford,</hi> of BRADFIELD in the <hi>Countie of</hi> BERK: Grace and glory.</head>
+            <p>
+               <seg rend="decorInit">S</seg>YR: It hath pleaſed GOD, ſince my depar<g ref="char:EOLhyphen"/>ture from the Colledge, to viſit me with con<g ref="char:EOLhyphen"/>tinuall ſickneſſe, (I am the man that hath ſeene affliction in the rod of his indignation,)
+<note place="margin">Lam. 3.1.</note> a
+<pb facs="tcp:17201:2"/>Burning-Feuer, hauing for theſe nine Moneths exhau<g ref="char:EOLhyphen"/>ſted my body, and made it al<g ref="char:EOLhyphen"/>moſt a Scheleton: All which time of my weakneſſe, when my indiſpoſition, by my cruell diſeaſe, would permit, my ſtu<g ref="char:EOLhyphen"/>dy was wholy in the Pſalmes of <hi>Dauid;</hi> a Booke fit for one in my caſe, being full of Pſalmes of humiliation vn<g ref="char:EOLhyphen"/>der Gods rod: what comfort I found therein, I feele in my ſoule, I neede not, I cannot expreſſe. Among many other Pſalmes of ſad ſubiect, I was much affected with the <hi>79.</hi> Pſalme, the reporter and be<g ref="char:EOLhyphen"/>moner
+<pb facs="tcp:17201:2"/>of <hi>Ieruſalems</hi> deſtru<g ref="char:EOLhyphen"/>ction: an argument full of heauineſſe, agreeable to my dull and ſad diſpoſition; on which Pſalme I then concei<g ref="char:EOLhyphen"/>ued ſome Meditations, which for ſome reaſons, I am wil<g ref="char:EOLhyphen"/>ling to impart to the world, and haue vowed in my ſelfe, if this firſt Eſſay be kindely accepted, to beſtow now in my health, better paines vp<g ref="char:EOLhyphen"/>on all the whole Booke of the Pſalmes, and to make this Schedell a iuſt Volume. J pre<g ref="char:EOLhyphen"/>ſent it to you as the firſt fruits of my actiue life, be<g ref="char:EOLhyphen"/>ing moued thereto by duety
+<pb facs="tcp:17201:3"/>and reſpect: and ſomewhat to incite you to make this Booke the obiect of your Contemplation.</p>
+            <p>Beleeue mee, Sir, other Bookes make men good Schol<g ref="char:EOLhyphen"/>lers, but aboue all, the Booke of the Pſalmes maketh men good Chriſtians. I doubt not of the acceptance of this poore Mite, or the imploi<g ref="char:EOLhyphen"/>ment thereof. God who hath giuen you in your youth, a ſober and honeſt heart; giue alſo that by my vnworthy ſeruice, you may continue, increaſe, and grow olde in his Grace: ſo my ſtudy ſhall
+<pb facs="tcp:17201:3"/>be euer profitable, and you bleſſed. Which I heartily wiſh, and remaine</p>
+            <closer>
+               <signed>
+                  <hi>Your VVorſhips in all dutie and obſeruance</hi> I. Dunſter.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="exposition">
+            <pb facs="tcp:17201:4"/>
+            <pb n="1" facs="tcp:17201:4"/>
+            <head>HIERVSALEMS <hi>deſtruction.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>PSAL. 79.</hi>
+               </bibl>
+               <q>O God, the Heathen are come into thine inheritance, thine holy Tem<g ref="char:EOLhyphen"/>ple haue they defiled, and made <hi>Hieruſalem</hi> heapes of Stones.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Aint <hi>Hilarie,</hi> in his Pro<g ref="char:EOLhyphen"/>logue vpon the Pſalmes obſerueth, that to euery Pſalme there belongeth proper <hi>Keyes;</hi> by which wee may o<g ref="char:EOLhyphen"/>pen and enter into the ſence there<g ref="char:EOLhyphen"/>of: and thoſe <hi>Keyes</hi> are ſayd to be twaine:
+<list>
+                  <item>1 The Inſcription.</item>
+                  <item>2 The perſon to whom, of whom, againſt whom, the Pſalme is indited.</item>
+               </list>
+            </p>
+            <p n="1">1 The Title or Inſcription of this Pſalme, is, <hi>Pſalmus Aſaph,</hi> in
+<pb n="2" facs="tcp:17201:5"/>Saint <hi>Hieroms</hi> tranſlation <hi>Canticu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Aſaph,</hi> the Song of <hi>Aſaph,</hi> either becauſe compoſed by <hi>Aſaph,</hi> the ſonne of <hi>Barachiah;</hi> or rather, be<g ref="char:EOLhyphen"/>cauſe ſung by that company of Le<g ref="char:EOLhyphen"/>uites, or Singing-men, which were vnder <hi>Aſaphs</hi> gouernement: for we finde, 1 <hi>Chro.</hi> 25. that there were three orders or formes of ſinging-men; ſome vnder <hi>Aſaph,</hi> others vn<g ref="char:EOLhyphen"/>der <hi>Idithun,</hi> and the third vnder <hi>Ethan.</hi>
+            </p>
+            <p n="2">2 The perſon of whom or a<g ref="char:EOLhyphen"/>gainſt whom this Pſalme is penned, according to the diuerſe opinion &amp; iudgement of the learned, is likewiſe diuerſe:
+<note place="margin">Lyran.</note> ſome will haue the perſon to be <hi>Nabuchadnezzar,</hi> and the Ba<g ref="char:EOLhyphen"/>bylonians, by whom the firſt Tem<g ref="char:EOLhyphen"/>ple,
+<note place="margin">Auguſtinus. Caſsiodorus.</note> built by <hi>Salomon,</hi> was defaced, and <hi>Hieruſalem</hi> ſacked. Others, <hi>An<g ref="char:EOLhyphen"/>tiochus,</hi> ſirnamed <hi>Epiphanes;</hi> vvho burnt <hi>Hieruſalem,</hi> and polluted the ſecond Temple, built by <hi>Zorobabel,</hi> after the captiuitie: and this opinion is moſt probable, for 1 <hi>Macca.</hi> 7.17. wee finde the third verſe of this
+<pb n="3" facs="tcp:17201:5"/>Pſalme, (<hi>Their bloud haue they ſhed like water round about</hi> Hieruſalem) applied to <hi>Antiochus</hi> his cruelty, by the miniſtery of <hi>Alcimus:</hi>
+               <note place="margin">Remigius.</note> Some there be that vnderſtand it of <hi>
+                  <g ref="char:V">Ʋ</g>e<g ref="char:EOLhyphen"/>ſpatian</hi> and <hi>Titus,</hi>
+               <note place="margin">
+                  <hi>Ioſephus</hi> ſaith that the Prieſts did firſt ſet fire on the Temple and afterwards came to yeeld themſelues to <hi>Titus,</hi> who made them this anſwere, <hi>Decere ſacerdotes, inti<g ref="char:EOLhyphen"/>rire Templo?</hi> What vſe was there of Prieſts when there was no Tem<g ref="char:EOLhyphen"/>ple?</note> who made deſolate the Citie <hi>Hieruſalem,</hi> and burnt the third Temple, which was 40. yeres in building by <hi>Herod</hi> the firſt, ſir<g ref="char:EOLhyphen"/>named <hi>Aſealonita,</hi> who ſlew the little children in the Goſpell. But I doe not ſee how <hi>venerunt in haere<g ref="char:EOLhyphen"/>ditatem tuam</hi> may be verified of the Iewes vnder the Romanes, becauſe they were now repudiated, and the Gentiles ſubrogated into their place.</p>
+            <p>But whoſoeuer the perſon be a<g ref="char:EOLhyphen"/>gainſt whom this Pſalme was indi<g ref="char:EOLhyphen"/>ted. Sure I am it is a meere Elegie and mournefull lamentation; lite<g ref="char:EOLhyphen"/>rally of the Iewes, for the deſtructi<g ref="char:EOLhyphen"/>on of their Citie and Temple; Tro<g ref="char:EOLhyphen"/>pically of Chriſtians, bewailing the deuaſtation of Chriſt his Church here on Earth by the malice of cru<g ref="char:EOLhyphen"/>ell perſecutors, whether that <hi>Aper
+<pb n="4" facs="tcp:17201:6"/>de ſyluâ,</hi> the Turke, or the Purple whore, the great Antichriſt of <hi>Rome.</hi>
+            </p>
+            <div n="1" type="verse">
+               <head>Verſe 1. <hi>O God, the Heathen are come into thine inheritance, &amp;c.</hi>
+               </head>
+               <p>HEere is a patheticall exclama<g ref="char:EOLhyphen"/>tion, <hi>O God!</hi> and the reaſon thereof, <hi>the Heathen are come into thine Inheritance, &amp;c.</hi>
+               </p>
+               <q>O God! <hi>Deus! ah Deus! aſpicis haec?</hi>
+               </q>
+               <p>
+                  <hi>O God!</hi> Let men be in proſperi<g ref="char:EOLhyphen"/>tie they ſeldome thinke of, or pray to God.</p>
+               <q>Rarae fumant foelicibus arae.
+<note place="margin">Sil. It.</note>
+               </q>
+               <p>Men in proſperitie ſeldome need or vſe Sacrifices at the Altar to pur<g ref="char:EOLhyphen"/>chaſe Gods fauour, but men in ca<g ref="char:EOLhyphen"/>lamitie thinke they neuer doe e<g ref="char:EOLhyphen"/>nough. They were a ſtubborne peo<g ref="char:EOLhyphen"/>ple,
+<note place="margin">Vt afflictio facit religioſos, rebus ſecundis nec Deus nee diuus quiſ<g ref="char:EOLhyphen"/>piam nobis venit mentem. Eraſm. in Naufr.</note> of whom it was ſaid, <hi>Clama<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>runt ad Dominum cum tribularentur,</hi> yet their neckes being bended by tribulation, they bowed their knees and hearts likewiſe. On a Feaſt, or Marriage-day few talke of God, but
+<pb n="5" facs="tcp:17201:6"/>if a houſe be on fire, or the peſti<g ref="char:EOLhyphen"/>lence in the Citie, all men hold vp their hands to Heauen. <hi>Fill their faces, O Lord, with ſhame, and they will ſeeke thy Name,</hi> ſaith the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſay.</hi> It is ſaid of <hi>Ionas,</hi>
+                  <note place="margin">
+                     <hi>Zeno Epiſc. ver. lib.</hi> 2. <hi>Ser.</hi> 38.</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>igi<g ref="char:EOLhyphen"/>lat in ceto qui ſtertebat in naue. Mira res.</hi> A wonderfull matter! Hee that ſlept in the Ship is broad-waking in the Whales belly, praying vnto God ſo zealouſly as if hee would force Heauen with his prayers.</p>
+               <p n="2">2 The cauſe of the exclamation, <hi>The Heathen are come into thine inhe<g ref="char:EOLhyphen"/>ritance.]</hi>
+               </p>
+               <p>Idolaters, who know not thee to be the true God, haue inuaded, yea, poſſeſſed as their owne, yea rauaged and forraged in thine inheritance. The Gentiles, curſed, abhorred Gentiles, dogs, wilde Oliues, if not Brambles rather, of whom thou ſaydſt,
+<note place="margin">
+                     <hi>Lamen.</hi> 1.10.</note> 
+                  <hi>They ſhould not enter into thy Church, haue with the foot of pride and diſdaine troden vpon thine Altars, prophaned thy ſacred Temple, ſlaine thy Prieſts, and done violence to the
+<pb n="6" facs="tcp:17201:7"/>Apple of thine owne eyes. (Cuſtodiu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t quaſi pupillam oculi ſui, Deut.</hi> 32.10.) The Chaldaeans, or <hi>Antiochus,</hi> or the Romanes, haue broken downe the hedge of thy Vineyard, thy peo<g ref="char:EOLhyphen"/>ple, that thy people, whom thou louedſt as thine own ſoule (<hi>Dedi di<g ref="char:EOLhyphen"/>lectam animam meam in manus ini<g ref="char:EOLhyphen"/>micorum, Ierem.</hi> 12.) haue they in miſerable captiuitie. O God! <hi>Deus! ah Deus! aſpicis haec?</hi>
+               </p>
+               <p>
+                  <hi>Thy holy Temple haue they defiled.]</hi> Whether that of <hi>Salomon,</hi> if you vnderſtand this Pſalme of the Chal<g ref="char:EOLhyphen"/>daeans, or that of <hi>Zorobabel;</hi> if of <hi>Antiochus,</hi> or that of <hi>Herod;</hi> if of <hi>
+                     <g ref="char:V">Ʋ</g>eſpatian</hi> and <hi>Titus: Thy Temple they haue defiled,</hi> coinquinated, pro<g ref="char:EOLhyphen"/>phaned, eyther by ouerthrowing thine Altars, and demoliſhing the Temple it ſelfe; or by exportation of the holy veſſels into prophane banquets,
+<note place="margin">
+                     <hi>Dan.</hi> 5. 1 <hi>Mac.</hi> 1.57. <hi>Stupris &amp; alijs immandicis illud polluerunt. Haymon Reme<g ref="char:EOLhyphen"/>gius.</hi>
+                  </note> or by placing in thy Temple the Image of <hi>Iupiter Olym<g ref="char:EOLhyphen"/>pius,</hi> or by abuſing our wiues and daughters in thy Temple: either by ſome or all theſe wayes haue they defiled thy Temple.</p>
+               <q>
+                  <pb n="7" facs="tcp:17201:7"/>
+                  <l>—Fuerat hoc prorſùs nefas
+<note place="margin">Sen.</note>
+                  </l>
+                  <l>Danais inauſum, Templa violaſtis.</l>
+                  <l>Haereditatem tuam, Templu<g ref="char:cmbAbbrStroke">̄</g> tuum.]</l>
+               </q>
+               <p>Thine inheritance, thy Temple. Haue regard to thine owne worſhip: defend thine owne Altars: ſauegard thy Prieſts: keepe thine owne houſe, I doe not ſay from Buyers and Sel<g ref="char:EOLhyphen"/>lers, but from the inuaſion of theeues, who are already entred therein, and haue made thereof a Den of theeues. The zeale of thine houſe hath eaten mee vp, and for<g ref="char:EOLhyphen"/>ceth me to ſay once againe, <hi>O God! Deus! ah Deus! aſpicis haec?</hi>
+               </p>
+               <p>
+                  <hi>And made Ieruſalem heapes of ſtones.]</hi> Ieruſalem, famous for her firſt Founder, <hi>Melchiſedech,</hi> King of Salem, a notable type of Chriſt: for her Antiquitie, builded in the dayes of <hi>Abraham:</hi> for her ſitua<g ref="char:EOLhyphen"/>tion and forme, being the plat<g ref="char:EOLhyphen"/>forme and type of heauen: for her Temple, all of golde, euen to the Snuffers: for the Kingdome and Prieſthood both reſident in her: for her name, <hi>Ieruſalem,</hi> the viſion
+<pb n="8" facs="tcp:17201:8"/>of peace; where the God of peace was to ſeale the couenant of peace, and whence was to be ſent abroad the Inſtrument of our peace, the Goſpell of Reconciliation. This Ie<g ref="char:EOLhyphen"/>ruſalem, the Citie of God, the holy Citie, the Citie of the great King the Schoole of our Faith, the cradle of our Saluation, the bed in which the life of the world ſlept, roſe againe, and aſcended into heauen; this Ieru<g ref="char:EOLhyphen"/>ſalem is now made <hi>in Pomorum cu<g ref="char:EOLhyphen"/>ſtodiam,</hi> as a lodge in a Vineyard, or Garden of Cucumbers: nay, in a lodge there is faſhion of orderly building, in <hi>aceruum lapidu<g ref="char:cmbAbbrStroke">̄</g>,</hi> heapes of ſtones,
+<note place="margin">
+                     <hi>Mat.</hi> 23.</note> not one ſtone left vpon another in orderly building.</p>
+               <q>
+                  <l>—Columen euerſum occidit</l>
+                  <l>Pollent is Aſiae,
+<note place="margin">Sen.</note> caelitum egregius labor.</l>
+                  <l>—Hoſtis—horrei afflictam quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </l>
+                  <l>Victa<g ref="char:cmbAbbrStroke">̄</g>
+                     <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> qua<g ref="char:cmbAbbrStroke">̄</g>uis videat haud credit ſibi</l>
+                  <l>Potuiſſe vinci. —</l>
+               </q>
+               <p>Is this the Citie that men call the perfection of beautie, and ioy of the whole earth? <hi>Lam.</hi> 2.15.</p>
+               <p>
+                  <hi>O God, the Heathen are come in<g ref="char:EOLhyphen"/>to
+<pb n="9" facs="tcp:17201:8"/>thine inheritance,</hi>
+                  <note place="margin">
+                     <p>Tollebant manus prae admiratione. Thomas.</p>
+                     <p>O quanta i<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tatio rerum! Rupertus.</p>
+                  </note> 
+                  <hi>thine holy Tem<g ref="char:EOLhyphen"/>ple haue they defiled, and made Ieru<g ref="char:EOLhyphen"/>ſalem heapes of ſtones, &amp;c.</hi>
+               </p>
+               <p>Why God ſhould thus forſake his inheritance, and not remember his Foot-ſtoole, in the day of his Wrath. The cauſes I take to be two:
+<list>
+                     <item>1 His loue to his People.</item>
+                     <item>2 His hatred to the ſinne of his people.</item>
+                  </list>
+               </p>
+               <p>His loue to his people: Whom God loueth he correcteth, <hi>You one<g ref="char:EOLhyphen"/>ly haue I knowne of all the Nations of the earth, therefore I will viſit you for all your iniquities, Amos</hi> 3.2. hee ſcourgeth euery ſonne whom he re<g ref="char:EOLhyphen"/>ceiueth: the more his anger, the greater is his loue. His beſt people, choſen and culled out of all the na<g ref="char:EOLhyphen"/>tions of the earth, taſted almoſt of an Anniuerſary Captiuitie. (Ieruſa<g ref="char:EOLhyphen"/>lem taken
+<note n="*" place="margin">
+                     <p n="1">1 By Iebuſites.</p>
+                     <p n="2">2 By <hi>Dauid.</hi>
+                     </p>
+                     <p n="3 4">3. 4. By <hi>Nabu<g ref="char:EOLhyphen"/>chadnezzar.</hi>
+                     </p>
+                     <p n="5">5 By <hi>Seſack,</hi> King of Aegipt, in <hi>Roboams</hi> time.</p>
+                     <p n="6">6 By <hi>Alexander</hi> the great.</p>
+                     <p n="7 8">7. 8. By <hi>Antio<g ref="char:EOLhyphen"/>chus.</hi>
+                     </p>
+                     <p n="9">9 By <hi>Pompey.</hi>
+                     </p>
+                     <p n="10">10 By <hi>Herod.</hi>
+                     </p>
+                  </note> tenne times, before her deſolation by <hi>Veſpatian</hi> and <hi>Titus,</hi>) often captiuated, yet neuer extin<g ref="char:EOLhyphen"/>guiſhed; yea, God hath reſerued a remnant of Iſraell to be ſaued in the end of the world, after their ſo
+<pb n="10" facs="tcp:17201:9"/>long diſpertion. Moab is therefore more full of ſinne, becauſe neuer dealt withall as Ieruſalem, neuer re<g ref="char:EOLhyphen"/>moued from her lees, neuer poured from veſſell to veſſell, ſaith the Prophet. While God ſtriketh vs, it argueth hee hath his face towards vs, and not his backe, which is the greateſt iudgement of all, when God goeth from vs as if not caring for vs. <hi>I will not viſit your daughters when they are harlots, nor your ſpou<g ref="char:EOLhyphen"/>ſes when they are whores, Hoſ.</hi> 4.14. <hi>My wrath is departed from mee, I will ceaſe, and be no more angry, Ezek.</hi> 16. <hi>Nolo iſtam miſericordiam:</hi> I will none of that mercy (ſaith S. <hi>Bernard.</hi>)
+<note place="margin">
+                     <hi>Ser. ſuper Cant. Miſericordia pu<g ref="char:EOLhyphen"/>niens: &amp; parcens crudelitas.</hi> Aug.</note> This pittie is beyond all wrath: <hi>Hîc vrat, hîc ſecet, dùm par<g ref="char:EOLhyphen"/>cat in aeternum;</hi> let him cauterize, let him vſe inciſion in this life, ſo he ſpare in the life to come. <hi>Ex hoc intelligimus, nos Deo curae eſſe, quo<g ref="char:EOLhyphen"/>niam cùm peccamus iraſcitur:</hi> By this (ſaith <hi>Lactantius</hi>) wee know that God careth for vs, becauſe when we ſinne hee is angry.</p>
+               <pb n="11" facs="tcp:17201:9"/>
+               <p>The bitter pill of afflictions is no way to be ſhunned of a good Chri<g ref="char:EOLhyphen"/>ſtian.</p>
+               <p n="1">1 Becauſe they come from GOD, howbeit ſometime inflicted by Sa<g ref="char:EOLhyphen"/>than, Gods inſtrument. <hi>Behold it ſhall come to paſſe, that the Diuell ſhall caſt ſome of you into priſon, that yee may be tryed, and yee ſhall haue tribulation tenne dayes. Be thou faith<g ref="char:EOLhyphen"/>full vnto the death, and I will giue thee the crowne of life. Reu.</hi> 2.10.</p>
+               <p n="2">2 Becauſe they worke for our good: <hi>We are chaſtened of the Lord, becauſe wee ſhould not be condemned with the world.</hi> 1 <hi>Cor.</hi> 11.32. <hi>Ama<g ref="char:EOLhyphen"/>raſalubria:</hi> bitter Potions are whole<g ref="char:EOLhyphen"/>ſome.</p>
+               <p n="3">3 Becauſe they aſſimilate vs to Chriſt: <hi>Hee ſuffered and ſo entred in<g ref="char:EOLhyphen"/>to his glory.</hi> Hee went to heauen by weeping Croſſe, and we muſt follow him the ſame way. It were mon<g ref="char:EOLhyphen"/>ſtrous there ſhould be <hi>delicata mem<g ref="char:EOLhyphen"/>bra ſub capite ſpinoſo,</hi> ſaith Saint <hi>Ber<g ref="char:EOLhyphen"/>nard.</hi>
+               </p>
+               <p n="4">4 Becauſe howbeit they be grie<g ref="char:EOLhyphen"/>uous,
+<pb n="12" facs="tcp:17201:10"/>yet they be but ſhort, <hi>for a little while haue I forſaken thee, but with great compaſſion will I gather thee: for a moment, in mine anger, I hid my face from thee for a little ſoa<g ref="char:EOLhyphen"/>ſon, but with euerlaſting mercy haue I had compaſſion on thee, Iſa.</hi> 54.7.8. The Sunne is not alwayes ouer<g ref="char:EOLhyphen"/>caſt with a cloud; It is not euer win<g ref="char:EOLhyphen"/>ter; Mariners feele not alwayes the fury of Windes:
+<q>
+                     <l>Nec fera tempeſtas toto tamen errat in anno,
+<note place="margin">Ouid. in Faſt.</note>
+                     </l>
+                     <l>Et tibi, crede mihi, tempora Veris e<g ref="char:EOLhyphen"/>runt.</l>
+                  </q>
+               </p>
+               <p>Euery affliction hath <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">2 <hi>Cor.</hi> 2.10.</note> a forth,
+<note place="margin">Intermiſſa gra<g ref="char:EOLhyphen"/>tior libertas, ac reddita quàm ſeruata. Petr.</note> or an eſcape: <hi>Sorrow and mourne ô Daughter Zion! like a wo<g ref="char:EOLhyphen"/>man in trauaile, for now thou ſhalt goe and dwell in the field, and goe in<g ref="char:EOLhyphen"/>to Babell, but</hi> there ſhalt thou be deliuered, <hi>Micha</hi> 4.10. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Hee hath, hee doth, and yet hee will deliuer vs,</hi> There befalleth vs no other temp<g ref="char:EOLhyphen"/>tations,
+<note place="margin">1 <hi>Cor.</hi> 10.11.</note> but ſuch as befall men.
+<pb n="13" facs="tcp:17201:10"/>According to our weakeneſſe, God proportionateth his cup of afflicti<g ref="char:EOLhyphen"/>on: therefore I thinke called <hi>a Cuppe of affliction,</hi>
+                  <note place="margin">
+                     <hi>Matth.</hi> 20.</note> becauſe no Phy<g ref="char:EOLhyphen"/>ſitian more carefully aſſigneth a po<g ref="char:EOLhyphen"/>tion for his Patient, nor waigheth out more accurately ounces and drams, then God doth afflictions for <hi>his children.</hi>
+               </p>
+               <p n="2">2 His hatred to the ſinne of his people:
+<note place="margin">
+                     <hi>Puto,</hi> (ſaith <hi>Ti<g ref="char:EOLhyphen"/>tus</hi>) if the Ro<g ref="char:EOLhyphen"/>manes had not come vp againſt them, they wold haue bin ſwal<g ref="char:EOLhyphen"/>lowed vp of the earth, or peri<g ref="char:EOLhyphen"/>ſhed in another Noës-floud, or haue bin burnt with lightning. <hi>Ioſ.</hi>
+                  </note> ſurely had not Ieruſalem beene ſo ſinfull God vvould neuer haue dealt ſo hardly with his owne inheritance. Hee would neuer haue taken the girdle from his loynes, and ſaid; <hi>Non es populus meus;</hi> thou art not my people. It is their owne confeſſion, <hi>capti ſumus in iniquitati<g ref="char:EOLhyphen"/>bus noſtris:</hi> and it was Gods pro<g ref="char:EOLhyphen"/>feſſion, <hi>Iſrael, ſi in viâ Dei ambu<g ref="char:EOLhyphen"/>lâſſes, habitâſſes vti<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> in pace ſuper terram.</hi>
+                  <note place="margin">
+                     <hi>Numb.</hi> 31.16.</note> 
+                  <hi>Balaam</hi> knew that if <hi>Balak</hi> could but make the people of Iſ<g ref="char:EOLhyphen"/>rael ſinne, that God would eftſoones forſake them, and therefore he ad<g ref="char:EOLhyphen"/>uiſed him to put ſtumbling blocks before them, euen that great ſtum<g ref="char:EOLhyphen"/>bling
+<pb n="14" facs="tcp:17201:11"/>blocke of the world <hi>(Quid non mihi faemina praeſtas?)</hi>
+                  <note place="margin">Theſe cauſed the children of Iſrael, through the counſell of <hi>Balaam,</hi> to com<g ref="char:EOLhyphen"/>mit a treſpaſſe againſt the Lord. <hi>Iud.</hi> 5.</note> The ga<g ref="char:EOLhyphen"/>riſh beautie of laſciuious women<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a <hi>Coſby</hi> to tempt <hi>Zimry.</hi> And <hi>Ach<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or</hi> (in the Story of <hi>Iudeth</hi>) telleth <hi>Holoferues,</hi> that if the Iewes were guiltie of any great ſinnes, then they ſhould eaſily conquer them, for God would forſake them; if not, <hi>ſi non eſt offenſio populi huius coram Deo ſuo,</hi> all would be but in vaine they ſhould attempt. When <hi>Calice</hi> was taken by the French, vnder <hi>Charles</hi> the 7. and the French-men, in ſcorne asked the Engliſh when they would come for <hi>Calice</hi> againe; a wiſe Captaine made anſwere; <hi>Cum peccata veſtra erunt noſtris grauiora,</hi> when your ſinnes ſhall be more then ours: intimating that for ſirme God giueth ouer a Kingdome, or a Citie to the ſpoile of enemies.</p>
+               <p>Now the ſinnes for which Ieru<g ref="char:EOLhyphen"/>ſalem is indited in the Booke of God, and ſo often found guiltie, are eſpecially three:</p>
+               <p n="1">1 Idolatry: <hi>According to thy
+<pb n="15" facs="tcp:17201:11"/>Cities are thy Gods ô Iſrael!</hi> They ſerued <hi>Chemoſh,</hi> and <hi>Melcome,</hi> and <hi>Astheroth,</hi> and <hi>Baalim:</hi> and indeed they were inſatuated with this ſinne. You know of olde they ſaid to <hi>Aa<g ref="char:EOLhyphen"/>ron, fac nobis Deos?</hi> Make vs Gods. <hi>Ab homine exigunt vt Deos faceret,</hi> they require a man to make them a God What ſtocke or ſtone would euer haue made ſuch a fooliſh pe<g ref="char:EOLhyphen"/>tition?</p>
+               <p n="2">2 Crueltie towards the Prophets and Seruants of God, <hi>Ieruſalem, Ieru<g ref="char:EOLhyphen"/>ſalem, which killeſt the Prophets, &amp;c.</hi>
+               </p>
+               <p n="3">3 And aboue all, the ſacrilegious parricide of our bleſſed Sauiour: other ſinnes cauſed onely their tranſportation into Captiuitie, this their finall deſolation. <hi>The anger of the Lord hath ſcattered them hee will no more regard them, Lam.</hi> 4.16. (Of the Romanes) <hi>out of their hands, I will not deliuer them Zach.</hi> 11.6.</p>
+            </div>
+            <div n="2,3" type="verses">
+               <pb n="16" facs="tcp:17201:12"/>
+               <head>Verſe 2. <hi>The dead bodies of thy ſer<g ref="char:EOLhyphen"/>uants haue they giuen to be meate vn<g ref="char:EOLhyphen"/>to the Fowles of the Heauen, and the fleſh of thy Saints to the Beaſts of the earth.</hi>
+               </head>
+               <head type="sub">Verſe 3. <hi>Their bloud haue they ſhed like water round about Ieruſa<g ref="char:EOLhyphen"/>lem, and there was none to bury them.</hi>
+               </head>
+               <p>THE Iewes firſt bemone the wrong done to God, and to his Temple; <hi>[they haue defiled thy Tem<g ref="char:EOLhyphen"/>ple;]</hi> now they lament their owne calamitie: they were ſlaine with the edge of the ſword; but yet if they might be interred in their Fathers Sepulchers, or but buried at all, their miſery would be ſo much the leſſe;
+<note place="margin">Sence in Deel.</note> 
+                  <hi>Quid in morte miſerius quàm ſepeli<g ref="char:EOLhyphen"/>ri non poſſe?</hi> What is more grieuous in death, then not to be buried? But behold Buriall is denyed them: <hi>Zenacherib</hi> commanded <hi>Tobiah</hi> to be ſlaine for burying the Iewes.
+<note place="margin">
+                     <hi>Tab.</hi> 1.</note> 
+                  <hi>An<g ref="char:EOLhyphen"/>tiochus</hi> ſaith, <hi>Macc.</hi> 2.9. that the Iewes are not worthy of buryall,
+<pb n="17" facs="tcp:17201:12"/>but to be left to be eaten vp of raue<g ref="char:EOLhyphen"/>nous Birds, and wilde beaſts: and vnder <hi>Titus</hi> the ſlaughtered bodies were ſo many, they could not be in<g ref="char:EOLhyphen"/>terred, (there died by the Famine, Sword and Peſtilence, eleauen hun<g ref="char:EOLhyphen"/>dred thouſand: <hi>Ioſeph.</hi>)</p>
+               <p>It is a true ſaying of S. <hi>Auguſtine,</hi>
+                  <note place="margin">
+                     <hi>Lib.</hi> 1. <hi>de Ciuit. Dei. cap.</hi> 12.</note> The care of our Funerall, the man<g ref="char:EOLhyphen"/>ner of our Buriall, the exequiall pompe, all theſe <hi>Magis ſunt viuo<g ref="char:EOLhyphen"/>rum ſolatia quam ſubſidia mortuorum,</hi> are rather comforts for the liuing, then any vvay helpes for the dead. To be interred profiteth not the party deceaſed, his body feels it not, his ſoule regards it not; and we know that many holy Martyrs haue beene excluded from buriall, who in a Chriſtian ſcorne thereof beſpake their perſecutors, in their words which were ſlaine at <hi>Pharſalie.</hi>
+                  <q>
+                     <l>Nil agis hâc irâ, tabeſne cadauera ſoluat,</l>
+                     <l>An rogus, haud refert.</l>
+                     <bibl>—Luc.</bibl>
+                  </q> But yet there is an honeſty which belongeth to the dead bodie of man.
+<note place="margin">
+                     <hi>Quiſquis hon<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> tumuli. Virg.</hi> 10. <hi>Aen.</hi>
+                  </note> 
+                  <hi>Iehu</hi> commanded <hi>Iezabel</hi> to
+<pb n="18" facs="tcp:17201:13"/>be buried. <hi>Dauid</hi> thanked the peo<g ref="char:EOLhyphen"/>ple of <hi>Iabes Gilead,</hi> for burying of <hi>Saul. Peter</hi> that commanded <hi>Ana<g ref="char:EOLhyphen"/>nias</hi> and <hi>Saphira,</hi> thoſe falſe abdica<g ref="char:EOLhyphen"/>tors of their patrimonie to die, commanded to haue them buried being dead.
+<note place="margin">
+                     <hi>Eccleſ.</hi> 7.</note> It is an axiome of cha<g ref="char:EOLhyphen"/>ritie, <hi>Mortuo non prohibeas gratiam:</hi> withhold not kindneſſe from the dead. It ſhewes our loue and regard to men in our owne fleſh to ſee them buried; it manifeſteth our Faith and Hope of the Reſurrection; and therefore when that bodie, which is to riſe-againe, and to be made glo<g ref="char:EOLhyphen"/>rious and immortall in Heauen, ſhal be caſt to the Foules of the aire, or Beaſts of the Field,
+<note place="margin">
+                     <hi>Ier.</hi> 22.11.</note> it argueth in God great indignation againſt ſin. (Of <hi>Iehoiakim, Hee ſhall be buried as an Aſſe is buried, and caſt forth with<g ref="char:EOLhyphen"/>out the gates of</hi> Hieruſalem:) in man inhumane and barbarous crueltie.</p>
+               <p>I onely diſlike theſe three things in buriall.</p>
+               <p n="1">1 The ambitious deſire of vn<g ref="char:EOLhyphen"/>godly men to be buried in the
+<pb n="19" facs="tcp:17201:13"/>Church; of ſome, if ſuperſtitiouſly affected, in the Quier nay vnder the Altar: and to purchaſe this, thy giue a great legacie, whereas <hi>Conſtantine</hi> the <hi>great</hi> thought himſelfe not wor<g ref="char:EOLhyphen"/>thy to be buried in the Church, but at the Church dore whence, I take it is that Saint <hi>Chriſoſtome</hi> called him <hi>Petri piſcatoris ianitorem.</hi> S.
+<note place="margin">
+                     <hi>Hom</hi> 66. <hi>ad Pop. Antioch.</hi>
+                  </note> 
+                  <hi>Peter</hi> the Fiſhermans porter Our Sauiour condemned ſitting in the firſt place in men aliue, &amp; will he approue of the like contention in the dead?</p>
+               <p n="2">2 The ſuperfluous pompe of Funerals; to be attired with rich ap<g ref="char:EOLhyphen"/>parell in ſtead of a winding ſheet; to be ſpiced with Balmes, Mirre &amp; A<g ref="char:EOLhyphen"/>loes, to feaſt the wormes withall; to haue a long blacke armie of mour<g ref="char:EOLhyphen"/>ners; to haue their Armes carried in triumph before them; to haue a ſumptuous and tedious banquet af<g ref="char:EOLhyphen"/>ter the <hi>exequies;</hi> as if men who ne<g ref="char:EOLhyphen"/>uer care to follow Chriſt in their liues, would emulate him in their deaths: and becauſe it is ſaid and was fulfilled of him, <hi>Erit Sepulchrum
+<pb n="20" facs="tcp:17201:14"/>eius glorioſum, Iſay</hi> 11. Therefore their Funerals ſhall be glorious al<g ref="char:EOLhyphen"/>ſo. Yet I know there is a ſtate which belongs to Princes, below which, as they might not liue, ſo neither may they die.</p>
+               <p n="3">3 The coſt and magnificence of their Sepulchres, matchable with <hi>Artemiſias Mauſoloeum,</hi> and the Egyptian Piramides, when (mee thinkes) it ſhould be enough for vs Chriſtians, who in this laſt age of the world are in continuall expectation of a ſudden reſurrection, to be co<g ref="char:EOLhyphen"/>uered with a bed of thinne earth, I may ſay, <hi>Vt quid perditio haec?</hi> Sure I am, it were better if not for their bo<g ref="char:EOLhyphen"/>dies, yet for their ſoules, and for occaſioning of a bleſſing vpon their poſteritie, that this coſt had beene beſtowed to Charitable vſes.</p>
+            </div>
+            <div n="4" type="verse">
+               <head>Verſe 4. <hi>We are a reproach vnto our neighbours, a ſcorne and deriſion to them that are about vs.</hi>
+               </head>
+               <p>TO haue a good Neighbour is a good purchaſe, and therefore
+<pb n="21" facs="tcp:17201:14"/>
+                  <hi>Themiſtocles</hi> being to ſell his Field,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Heſ.</hi>
+                  </note> commaunded the Crier to adde a<g ref="char:EOLhyphen"/>mong other commodities, that it had a good neighbour. But our Iewes haue not onely enemies from farre, Chaldaea and Rome, but in <hi>vi<g ref="char:EOLhyphen"/>cinia,</hi> round about them; in their dwelling, Moabites, Ammonites, I<g ref="char:EOLhyphen"/>dumaeans, Philiſtins, who were ſo far from helping them againſt the ene<g ref="char:EOLhyphen"/>mie, that they did not pittie them; from pittying of them, that they did reproach, ſcorne, and deride them.
+<note place="margin">Totus iſte textus a Principio creſ<g ref="char:EOLhyphen"/>cens ſchema iſtud nobiliſsi<g ref="char:EOLhyphen"/>mum facit, quod vocatur Auxeſis. Caſsiod. in hunc verſ.</note>
+               </p>
+               <p>It is miſery enough to be in ad<g ref="char:EOLhyphen"/>uerſity, but greater miſery not to finde comfort in diſtreſſe, but to be ſcorned in ſtead of comforted is a waight of miſery, able to make the ſtouteſt heart heauie to death. I do thinke the mocking of our Sauiour with <hi>Aue Rex Iudaeorum,</hi> and <hi>vah qui deſtruis Templum,</hi> was more bit<g ref="char:EOLhyphen"/>ter to him then the Sponge of Vi<g ref="char:EOLhyphen"/>negar hee taſted off on the Croſſe. <hi>Homines contumeijs magis mouentur quam verberibus (Plutarch. in Timo<g ref="char:EOLhyphen"/>leon.)</hi> Men are more moued with
+<pb n="22" facs="tcp:17201:15"/>contumely then with ſtripes. Saint <hi>Chryſoſtome</hi> giues the reaſon there<g ref="char:EOLhyphen"/>of: Becauſe the feeling of a ſtripe is equally diſtributed between ſoule and body, but the ſence of reproach ſeazeth only and immediatly vpon the ſoule: And <hi>Tullie</hi> in his fift a<g ref="char:EOLhyphen"/>gainſt <hi>
+                     <g ref="char:V">Ʋ</g>erres, Habet quendam aculeum contumelia quem pati pru<g ref="char:EOLhyphen"/>dentes &amp; viri boni difficillime poſſunt; contumelie</hi> hath a ſting with it, which makes to bleede the heart of wiſe and good men, <hi>Leuiter volat, ſed grauiter vulnerat; leuiter animum pe<g ref="char:EOLhyphen"/>netrat, ſed non leuiter exit, &amp;c.</hi> ſaith <hi>Bernard:</hi> It is a good rule, <hi>Afflicto non eſt danda afflictio.</hi> We muſt haue a hand to helpe not a foot to keepe downe men in affliction.</p>
+            </div>
+            <div n="5" type="verse">
+               <head>Verſe 5. <hi>Lord, how long wilt thou be angry? for euer? ſhal thy iealou<g ref="char:EOLhyphen"/>ſie burne like fire?</hi>
+               </head>
+               <p>ENemies are cruell, Neighbours are ſcornefull and what hope or helpe is there but in thee, O Lord?
+<pb n="23" facs="tcp:17201:15"/>and thou art angry too: how long wilt thou be angry, for euer? Spare vs now at length, deliuer vs from our enemies: <hi>It is time that the Lord haue mercy vp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Zion, yea, the time is come.</hi> Pſal. 102.
+<q>
+                     <l>—Miſeris coeleſtia numina par<g ref="char:EOLhyphen"/>cunt.
+<note place="margin">Ouid.</note>
+                     </l>
+                     <l>Nec ſemper laeſos &amp; ſine fine pre<g ref="char:EOLhyphen"/>munt.</l>
+                  </q> Wee haue endured 70. yeeres vn<g ref="char:EOLhyphen"/>der <hi>Nebuchadnezzar,</hi> 3. yeeres vn<g ref="char:EOLhyphen"/>der <hi>Antiochus,</hi> many hundreds of yeres ſince our crucifying of Chriſt, and <hi>vſque quo! How long Lord wilt thou be angry? for euer? (Will hee keepe his anger for euer? will hee re<g ref="char:EOLhyphen"/>ſerue it vnto the end? thus haſt thou ſpoken, but thou doeſt euill euen more and more, Ierem.</hi> 3.5. <hi>Ye haue kind<g ref="char:EOLhyphen"/>led a fire in my anger, which ſhall burne for euer.) Lord, how long wilt be an<g ref="char:EOLhyphen"/>gry? ſhall thy iealouſie burne like fire? Domine &amp; zelus tuus.</hi> Lord, and thy Iealouſie: they imply God to haue beene the Author of all the euils which haue befallen them. <hi>The
+<pb n="24" facs="tcp:17201:16"/>Lord hath troden the Winepreſſe vpon the virgin, the daughter of Iudah,</hi> La. 1.15. <hi>Who gaue Iacob for a ſpoile, and Iſrael to the robbers? Did not the Lord? becauſe we haue ſinned against him,</hi> Iſa. 42.24. Not how long will <hi>Nebuchadnezzar</hi> or <hi>Antiochus</hi> bee angry? They indeed haue done this vnto vs but as thy inſtruments, as thy rods. The <hi>Sabeans</hi> robbed <hi>Iob</hi> of his ſubſtance, yet he perceiued a higher hand, <hi>Dominus abſtulit,</hi> the Lord hath taken; and <hi>Shimeis</hi> toung was the whip by which God ſcour<g ref="char:EOLhyphen"/>ged <hi>Dauid, Sinite</hi> Shimei <hi>vt male<g ref="char:EOLhyphen"/>dicat</hi> Dauid, <hi>Dominus praecepit ei.</hi> Euils which befall vs in this life are of two ſorts:
+<list>
+                     <item>1 <hi>Malum Culpae. &amp; Poenae.</hi>
+                     </item>
+                     <item>2 <hi>Malum Culpae. &amp; Poenae.</hi>
+                     </item>
+                  </list> God is not the Author of the firſt euill of ſinne, but the Diuell temp<g ref="char:EOLhyphen"/>ting, and man conſenting; but of the latter of <hi>Malum ponè peccatum,</hi> as the Schoolemen ſpeake, God is
+<pb n="25" facs="tcp:17201:16"/>the Author puniſhing iuſtly what ſinfully we haue committed: that defileth a man, this but chaſteneth and afflicteth him, that is euill in doing, this but in ſuffering; that in nature, this but in feeling: <hi>Si erit malum in Ciuitate &amp; Dominus non fecerit? Amos</hi> 3.6. <hi>Meſſana</hi> a Spaniard paraphraſeth it thus: <hi>E<g ref="char:EOLhyphen"/>rit poenae malum in Ciuitate quod Do<g ref="char:EOLhyphen"/>minus non fecerit, ſed caſus, fatum, fortuna vel hoſtis?</hi>
+               </p>
+            </div>
+            <div n="6" type="verse">
+               <head>Verſe 6. <hi>Poure out thy wrath vpon the Heathen that haue not knowne thee, and vpon the kingdomes that haue not called vpon thy name.</hi>
+               </head>
+               <p>VVEE, howbeit we be a wic<g ref="char:EOLhyphen"/>ked ſeede, yet are wee <hi>ſe<g ref="char:EOLhyphen"/>men Abrahae,</hi> of <hi>Abrahams</hi> race and linage: <hi>Mali filij, filij tamen,</hi> euill ſonnes, yet ſonnes; but the Heathen are not of thy houſhold, they are ſtrangers from the Couenant of grace, and without God in this world. Wee, howbeit miſerable ſin<g ref="char:EOLhyphen"/>ners,
+<pb n="26" facs="tcp:17201:17"/>doe know and inuocate thee onely for our God; they are igno<g ref="char:EOLhyphen"/>rant of thee, and doe not deſire the knowledge of thy wayes, therefore <hi>Poure out thy wrath vpon the Hea<g ref="char:EOLhyphen"/>then, &amp;c. Non optamus ſed prop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eta<g ref="char:EOLhyphen"/>mus,</hi> wee wiſh it not out of deſire of particular reuenge,
+<note place="margin">Minuet vindi<g ref="char:EOLhyphen"/>cta dolorem.</note> nor any way to eaſe our griefe, by their Taliation. (It was the ſpeech of an Heathen man, to goe to hell with him:
+<q>
+                     <l>Vindicta bonum, vitâ iucundius ipſâ.</l>
+                     <l>Reuenge is ſweeter then life.</l>
+                     <l>Chryſippus,
+<note place="margin">Iuuen.</note> non dicit idem nec mite <hi>Thaletis</hi>
+                     </l>
+                     <l>Iegenium, dulci<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſenex vicinus Hy<g ref="char:EOLhyphen"/>metto.</l>
+                  </q>
+               </p>
+               <p>Philoſophers; <hi>Chryſipp<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s, Thales, Plato:</hi> ſure I am, Chriſt Ieſus taught otherwiſe, not to returne euill for euill: <hi>Take heede,</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 12.</note> ſee to it, <hi>that no man returne euill for euill:</hi> nay, more patience then ſo,
+<note place="margin">1 <hi>Theſ.</hi> 1.</note> not to reſiſt or re<g ref="char:EOLhyphen"/>pell euill, but to giue both cheekes to the nippers. Wee muſt leaue ven<g ref="char:EOLhyphen"/>geance to him whoſe it is;
+<note place="margin">
+                     <hi>Deut.</hi> 32. <hi>Heb.</hi> 10.30.</note> 
+                  <hi>Vengeance is mine, I will repay</hi>) but propheſie,
+<pb n="27" facs="tcp:17201:17"/>and denounce, and conſent it ſhould be ſo. Wee know where it is writ<g ref="char:EOLhyphen"/>ten hee will reuenge the bloud of his Seruants, <hi>Deut.</hi> 32. <hi>Dico vobis quia citò faciet vindictam illerum. Now ſhall not God reuenge his E<g ref="char:EOLhyphen"/>lect, which cry day and night vnto him, yea, though hee ſuffer long for them? I tell you hee will auenge them quickly, Luke</hi> 18.7 8. And it is the Apoſtles Oracle, <hi>Hee that doth wrong ſhall receiue for wrong he hath done, Col.</hi> 3.25.</p>
+               <p>That wee may pray for reuenge vpon our and Gods enemies, it ap<g ref="char:EOLhyphen"/>peareth hence, otherwiſe the ſoules vnder the Altar would neuer cry: <hi>How long Lord, righteous and true?</hi>
+                  <note place="margin">
+                     <hi>Reuel.</hi> 6.10.</note> otherwiſe <hi>Paul</hi> would neuer haue imprecated vpon <hi>Alexander</hi> the Copper-Smith.
+<note place="margin">2 <hi>Tim.</hi> 4.14.</note> All men grant it is lawfull to pray for temporall euils againſt our enemies, that they may worke their conuerſion; and I thinke for eternall likewiſe, if they be Gods enemies alſo; and his Church cannot poſſibly haue peace vnleſſe
+<pb n="28" facs="tcp:17201:18"/>theſe members of Sathan and Anti<g ref="char:EOLhyphen"/>chriſt be cut off. See <hi>Zanch. de re<g ref="char:EOLhyphen"/>dempt. in</hi> 3. <hi>praecept. Cal. in Gala. c.</hi> 6. <hi>Buc. in Pſa.</hi> 16.</p>
+            </div>
+            <div n="7" type="verse">
+               <head>Verſe 7. <hi>Comederunt Iacob:] For they haue deuoured Iacob.]</hi>
+               </head>
+               <p>O Lord, let there remaine ſome holy ſeede, let thy Church not wholy periſh from the face of the earth.</p>
+               <p>The Catholike Church conſiſt<g ref="char:EOLhyphen"/>ing of all Nations, places, and times cannot be deuoured; but ſome part thereof, an arme or a legge may be in the Dragons mouth. (<hi>As a Shepheard taketh out of the mouth of the Lion two legs and a piece of an eare, ſo ſhall the Children of Iſrael be taken out, Amos</hi> 3.12.</p>
+               <p>Particular Churches are ſome<g ref="char:EOLhyphen"/>time more conſpicuous then other. Ieruſalem <hi>Templum Domini, Tem<g ref="char:EOLhyphen"/>plum Domini,</hi> was once the moſt glorious viſible Church of GOD: and ſhee, if euer any, was the Citie
+<pb n="29" facs="tcp:17201:18"/>ſeated on a hill, which could not be hid: and yet all viſion is now ceaſed, there is no Prophet, nor Altar, nor Sacrifice, nor Temple, nor Citie, all being buryed vnder aſhes: and let Rome exalted vpon ſeauen hils, who brags ſo much of the glory &amp; ſplendor of her church, beware leaſt her Sunne looſe not his beames, and grow darke at noone-day (too much proſperitie, or confidence at leaſt thereof, is euer attended with an vnexpected ruine.) <hi>Ab altitudine dicitimebo</hi> (ſaith the Pſalmiſt.) And a King of Aegypt ſpake out of experience, concerning the neuer interrupted felicitie of <hi>Po<g ref="char:EOLhyphen"/>licrates,</hi>
+                  <note place="margin">Herod in Thaliâ.</note> 
+                  <hi>Tam diuturnus foelicium re<g ref="char:EOLhyphen"/>rum curſus, animum meum aliquan<g ref="char:EOLhyphen"/>tiſper habet ſollicitu<g ref="char:cmbAbbrStroke">̄</g>, quippe qui ſciam, quam inuidiae ſecunda fortuna ob<g ref="char:EOLhyphen"/>noxia ſit.</hi> And I nothing doubt but that the myſticall Babilon, who is already fallen in Gods decree, and in her type, ſhall fall from, or be pluckt out from her chaire of pride, by the forcible armes of Chriſtian
+<pb n="30" facs="tcp:17201:19"/>Princes. The Woman in the Reue<g ref="char:EOLhyphen"/>lation, after the Aſcenſion of her Sonne, was driuen into the wilder<g ref="char:EOLhyphen"/>neſſe, and then it was true to ſay, <hi>Ecce in deſerto eſt Chriſtus;</hi> for, <hi>caput eſt in corpore ſuo:</hi> and in the time of the tenne perſecutions, ſhee was <hi>intruſa antris,</hi> ſhut vp in caues, or in priuate houſes, and then it was true to ſay, <hi>Ecce in penetrali<g ref="char:EOLhyphen"/>bus eſt Chriſtus.</hi> The Sunne it ſelfe is ouer-caſt with a cloud, and Eclipſed by the darke body of the Moone, and when he is gone downe to the other Hemiſphere, he ſeemes to be loſt to vs. And what wonder then if <hi>Tabernaculum in Sole poſitum,</hi> ſo much vrged by our Aduerſaries of Rome, be ſometimes ſo ouer-caſt and darkened that vvee cannot ſee it?</p>
+            </div>
+            <div n="8" type="verse">
+               <pb n="31" facs="tcp:17201:19"/>
+               <head>Verſe 8. <hi>Remember not againſt vs our former iniquities, &amp;c.</hi>
+               </head>
+               <p>EIther done by our Fathers, for it is iuſt with God to viſit the ſinnes of the Fathers vpon the chil<g ref="char:EOLhyphen"/>dren,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> vnto the third and fourth ge<g ref="char:EOLhyphen"/>neration. God, <hi>thou recompenſeſt the iniquities of the Fathers into the bo<g ref="char:EOLhyphen"/>ſome of their children after them. Ier.</hi> 32.18. <hi>Our fathers haue ſinned, and are not, and wee haue borne their ini<g ref="char:EOLhyphen"/>quities, Lam.</hi> 5.7. And the queſtion in this ſence was well asked <hi>Iohn</hi> 9. <hi>That this man is borne blinde, who hath ſinned? bee, or his Parents?</hi> God doth puniſh the ſinnes of the Fathers vpon the children in things temporall, in their bodies &amp; goods which they receiued from their Fa<g ref="char:EOLhyphen"/>ther: to wound the Father at the heart, hee layeth his rod vpon the Sonne as being the tendereſt part in which he could affect him.
+<q>
+                     <l>— Heu nunc miſero mihi demùm Exilium infoelix,
+<note place="margin">Vir. de Lauſi or<g ref="char:EOLhyphen"/>ciſi patre. Aen. 10</note> nunc aliè vulnus ad<g ref="char:EOLhyphen"/>actum.</l>
+                  </q>
+               </p>
+               <pb n="32" facs="tcp:17201:20"/>
+               <p>But God doth neuer puniſh the Sonne to his condemnation for his Fathers ſinne: for the ſaying is ex<g ref="char:EOLhyphen"/>preſſe,
+<note place="margin">
+                     <hi>Ezek.</hi> 18.20.</note> 
+                  <hi>Filius non portabit iniquita<g ref="char:EOLhyphen"/>tem patris,</hi> to wit, to the danger of his ſaluation: and ſo <hi>Thomas</hi> accor<g ref="char:EOLhyphen"/>deth <hi>Moſes</hi> and <hi>Ezekiel,</hi> that <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> ſpeaketh of temporall, <hi>Ezekiel</hi> of eternall puniſhment; but yet I doubt not but God who is debter to no man, moued onely by occa<g ref="char:EOLhyphen"/>ſion of the Fathers ſinne, doth de<g ref="char:EOLhyphen"/>taine his grace from the Sonne, and leaue him to the conduit of his owne ſinfull will,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and to the power of Sathan, to worke in him pertena<g ref="char:EOLhyphen"/>cie and obduration of heart, that at length hee may be a marke for the exerciſe of his iuſtice. Or in their imitation by vs: eyther in our youth, (<hi>
+                     <g ref="char:V">Ʋ</g>icina eſt lapſibus adoleſcentia,</hi> ſaith <hi>Ambroſe:</hi>
+                  <q>
+                     <l>
+                        <note place="margin">Ouid.</note> —Ne<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> enim robuſtior aetas</l>
+                     <l>—Nec quae magìs ardeat vlla eſt.)</l>
+                  </q> or in our ſtronger age: O Lord! wee were conceiued, and haue growne vp in ſin from our cradles:
+<pb n="33" facs="tcp:17201:20"/>wee haue done all wee can to fill vp the meaſure of our Fathers iniqui<g ref="char:EOLhyphen"/>ties. O Lord! accept of our hum<g ref="char:EOLhyphen"/>ble, ingenuous, and penitent con<g ref="char:EOLhyphen"/>feſſion of our ſinnes, and <hi>Remem<g ref="char:EOLhyphen"/>ber not againſt vs our former ſinnes.</hi>
+               </p>
+            </div>
+            <div n="9" type="verse">
+               <head>Verſe 9. <hi>Deliuer vs, and be merci<g ref="char:EOLhyphen"/>full vnto our ſinnes.</hi>
+               </head>
+               <p>THE order ſhould haue beene thus; <hi>Be mercifull vnto our ſins, and deliuer vs.</hi> For if ſinne was the cauſe of their miſerie, no deliue<g ref="char:EOLhyphen"/>rance thence till our ſinnes be ex<g ref="char:EOLhyphen"/>piated: therefore, <hi>O be mercifull vnto our ſinnes. Non operuiſed aperui vt operires,</hi> I haue not couered, but vncouered, that thou maiſt couer my ſinne. I know if I would haue vſe of the Phyſitian, I muſt open my diſeaſe vnto him; for <hi>quod igno<g ref="char:EOLhyphen"/>rat medicina, non curat</hi> (ſaith <hi>Hie<g ref="char:EOLhyphen"/>rome.</hi>) The Heathen (ſaith S. <hi>Au<g ref="char:EOLhyphen"/>guſtine,</hi> wonder that wee teach, ſins committed in deede, to be purged in word; actually, to be done away
+<pb n="34" facs="tcp:17201:21"/>verbally, <hi>Poteſt qui homicidium fecit homicida non eſſe?</hi> but ſuch is the power of humble confeſſion, that it obtaineth pardon and releaſe; yea, full expiation for all ſinne. <hi>Da<g ref="char:EOLhyphen"/>uid</hi> guiltie of two foule ſinnes, after the confeſſion of his ſinnes, was as white as the Snow in Salmon; <hi>O quantum valent tres Syllabat,</hi>
+                  <note place="margin">Ambroſ.</note> 
+                  <hi>Pecc<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i?</hi> a word of three Syllables is able to doe all this. God made the World of nothing, and mee, a man, of duſt the worſt of anything, and is he not able to make mee of guiltie, innocent?</p>
+            </div>
+            <div n="10" type="verse">
+               <head>Verſe 10. <hi>Wherefore ſhould the Hea<g ref="char:EOLhyphen"/>then ſay, Where is now their God?</hi>
+               </head>
+               <p>BY our miſery and affliction the Heathen diſcredit our faith and confidence in thee. It is their per<g ref="char:EOLhyphen"/>ſwaſion, true Religion ſhould euer be proſperous (<hi>accedit vtilitas quae maximè homini diuos aſſer it, Symmac. lib.</hi> 10. <hi>epiſt.</hi> 54.) <hi>nam cum ratio om<g ref="char:EOLhyphen"/>nis in operto ſit, vnde rectuis quam de
+<pb n="35" facs="tcp:17201:21"/>memoria atque documentis Rerum ſecundarum cognitio venit numinum?</hi> and this heatheniſh opinion hath infected the Church, which calieth her ſelfe Catholicke, <hi>Bell. lib.</hi> 4. <hi>de eccleſ. Milita. cap. vlt.</hi> makes tem<g ref="char:EOLhyphen"/>porall felicitie a note of the true Church. They neuer will beleeue <hi>Electos Dei pia agere &amp; crudelia <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<g ref="char:EOLhyphen"/>lerare,</hi> as S. <hi>Gregorie</hi> ſpeakes, that Gods elect doe well and ſuffer ill, &amp; therfore <hi>Tullie</hi> proues the Iewes to be hated of God, becauſe they were ſo miſerable.
+<note place="margin">Miſeriae Iudaeo<g ref="char:EOLhyphen"/>rum teſtantur quam non ſint chari Deo pro Flacco.</note> The miſeries of the Iewes doe teſtifie againſt them that they are not beloued of God: and no doubt, but the Turkes at this day are more confirmed in their Mahumetan impictie, by reaſon of their good ſucceſſe againſt Chriſti<g ref="char:EOLhyphen"/>ans: and therefore, O Lord, to free thy name, ſtop the mouth of this blaſphemie, pull thy hand out of thy boſome, let them at length per<g ref="char:EOLhyphen"/>ceiue that thou careſt for thy Church. <label type="milestone">
+                     <seg type="milestoneunit">Verſe </seg>11</label> 
+                  <hi>Remember the bloud of thy ſlaine ſeruants.</hi> Remember <hi>gemitus
+<pb n="36" facs="tcp:17201:22"/>&amp; compedes,</hi> the ſighings of the pri<g ref="char:EOLhyphen"/>ſoners yet aliue, but children of death, aiudged and deſtinated for death. <hi>Antiochus</hi> felt the effects of this imprecation,
+<note place="margin">2 <hi>Mac.</hi> 9. <hi>&amp;c.</hi>
+                  </note> for lying on his death-bed, wormes crawling out of his bowels, howbeit he did promiſe to ſet free Hieruſalem, to make the Iewes equall to the citizens of <hi>A<g ref="char:EOLhyphen"/>thens,</hi> and to rebuild and adorne the Temple which he had ſpoyled and to allow for ſacrifices out of his owne reuenues; nay himſelfe to be<g ref="char:EOLhyphen"/>come Iew, to glorifie that GOD whom he did now feele to haue of<g ref="char:EOLhyphen"/>fended, yet God would ſhew him no mercy.</p>
+            </div>
+            <div n="12" type="verse">
+               <head>Verſe 12. <hi>And render to our neigh<g ref="char:EOLhyphen"/>bours ſeauenfolde the reproach wherewith they haue reproched thee O Lord.</hi>
+               </head>
+               <p>FOrget not, good LORD, our neighbour-enemies; let <hi>Iſmaels</hi> mocking of <hi>Iſaac</hi> be remembred: remember the children of <hi>Edom,</hi>
+                  <pb n="37" facs="tcp:17201:22"/>how in the day of Hieruſalem they ſayd, <hi>Downe with it, downe with it, euen downe to the ground.</hi> Let the Moabites taſte of thy rod as well as the Chaldaeans, let them haue no mercy from thee that had no mercy for vs.</p>
+            </div>
+            <div n="13" type="verse">
+               <head>Verſe 13. <hi>So wee thy people, and ſheepe of thy paſture, ſhall praiſe thee for euer, and from genera<g ref="char:EOLhyphen"/>tion to generation will ſet forth thy praiſe.</hi>
+               </head>
+               <p>THey promiſe thankefulneſſe, and (becauſe <hi>primum Seneſcit beneficium, &amp; nihil facilius quam a<g ref="char:EOLhyphen"/>mor putreſcat. Sen.</hi>) this thankeful<g ref="char:EOLhyphen"/>neſſe to be perpetuall in themſelues and their poſteritie. They haue no<g ref="char:EOLhyphen"/>thing elſe to returne God for his cup of ſaluation, but the kindneſſe of their lips; which, if vnfained,
+<note place="margin">
+                     <hi>Pſal.</hi> 50.15.</note> is the beſt and ſweeteſt incenſe: <hi>Call vpon me in the time of thy tribulation, and I will deliuer thee, and thou ſhalt glorifie mee.</hi>
+               </p>
+               <pb n="38" facs="tcp:17201:23"/>
+               <p>The ſumme of all, is, <hi>Anfer iniquitatem, dabonum, &amp; reddemus vitulos labiorum noſtrorum.</hi>
+                  <note place="margin">Hoſ. vlt.</note> 
+                  <hi>Par<g ref="char:EOLhyphen"/>don our ſinnes, returne vs proſperitie, ſo will we ren<g ref="char:EOLhyphen"/>der the calues of our lips.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:17201:23"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hus haſt thou (gentle Reader) the literall Expoſition of this whole Pſalme, there is behinde the Expoſition according to the Trope, the deſtruction of ſpirituall Hieruſalem, the Church militant, by the Turke and Pope.</hi>
+               <note place="margin">
+                  <hi>Priuata iniuria maior quam Deus &amp; pietas, &amp; de<g ref="char:EOLhyphen"/>fendenda cruore religio? Mantuanus Tom.</hi> 1. <hi>Exhort ad Reg.</hi>
+               </note> 
+               <hi>This latter I intended firſt, but that building could not well bee without this foundation. It grie<g ref="char:EOLhyphen"/>ueth me, that the Citie where our ſaluation was wrought, ſhould be in the power of Infidels. God for<g ref="char:EOLhyphen"/>giue it them that haue beene the cauſe thereof,</hi> Quis ferat obfu<g ref="char:EOLhyphen"/>iſſe (reip.) eccleſiae priuata certa<g ref="char:EOLhyphen"/>mina? Symmachus. <hi>While</hi> Maxi<g ref="char:EOLhyphen"/>milian
+<pb facs="tcp:17201:24"/>
+               <hi>wars againſt the Swiſsa<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Baiazel <hi>makes his impreſsion vpon the Venetians; while</hi> Charles <hi>the</hi> fift <hi>is buſie to recouer</hi> Milan <hi>from the French,</hi> Solyman <hi>takes</hi> Belgrada.
+<note place="margin">Ieruſalem ſhall be troden vn<g ref="char:EOLhyphen"/>der foote of the Gentiles vntill the time of the Gentiles be ful<gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>d. Luke 21.24.</note> 
+               <hi>Wee Chriſtians fight one againſt another as in the day of</hi> Madian, <hi>and that</hi> Homo ferus <hi>aduanceth his victorie by our diſ<g ref="char:EOLhyphen"/>cords. If we cannot, or it may be,</hi> may not <hi>regain the</hi> holy city, <hi>yet let vs keepe the</hi> holy <hi>Church from the rage of the</hi> wilde Boare, <hi>and from the Beaſt in the Reuelation, who, what wrong they haue done, ſhall appeare in my next, of which I ſend this only as a</hi> Prodromus. <hi>Pray for my health, and I will la<g ref="char:EOLhyphen"/>bour and pray for thy ſpirituall profit.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
